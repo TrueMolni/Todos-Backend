@@ -1,0 +1,28 @@
+[
+  {
+    "username": "tails",
+    "password": "$2b$10$dcTfS5lEncoJPPynkZj/7Of6XVtPLHISBy571TW7iEDDIn1PhGhPu",
+    "todos": [
+      {
+        "id": 1698596968798,
+        "text": "Прибирати",
+        "completed": false
+      },
+      {
+        "id": 1698596977380,
+        "text": "Покодувати",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "username": "sonic",
+    "password": "$2b$10$KDhrfZmlyi0Jzp176vLTiOMuMZ9TPN3QshevMuY4AKN.LfF/svOLK",
+    "todos": []
+  },
+  {
+    "username": "sam",
+    "password": "$2b$10$0ukNs8JHRYSgs8DjLRPLdehO7LK7Z2qPphs63teWOeNPG4nedbhx.",
+    "todos": []
+  }
+]
